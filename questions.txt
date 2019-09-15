@@ -1,0 +1,8 @@
+Treat data : 
+
+Bedroom, bathroom, Make 0 to  NA 
+Should treat decimal bathrooms and floor ? 
+Order of cleansing  -- > Missing value imputation or outlier treatment 
+sqft living= sqft above + sqft base remove(sqft living)
+condition or grade --> for new houses no need of grade --> remove grade
+zipcode --> convert to factor/catagorical variable
